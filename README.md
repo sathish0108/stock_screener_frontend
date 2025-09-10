@@ -26,7 +26,7 @@ It shows **stocks grouped by sector**, calculates **investment metrics**, and up
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 1. Clone this repository:
    ```bash

@@ -1,4 +1,4 @@
-# Portfolio Dashboard (Frontend)
+# stock screener(Frontend)
 
 A **React Vite** application that displays portfolio insights fetched from the backend API.  
 It shows **stocks grouped by sector**, calculates **investment metrics**, and updates **CMP, Present Value, and Gain/Loss every 15 seconds**.

@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gain {
+  @apply text-green-600 bg-green-50;
+}
+.loss {
+  @apply text-red-600 bg-red-50;
+}
